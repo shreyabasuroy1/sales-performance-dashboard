@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard analyzing global sales performance across products, regions, and customers — built to identify revenue trends, top-performing markets, and order fulfillment patterns.
 
+![Dashboard Preview](dashboard.png)
+
 ## Business Problem
 
 A sales organization operating across 19 countries needed a consolidated view of performance to answer key business questions:
